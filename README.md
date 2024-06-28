@@ -12,4 +12,11 @@ In this repository, you can find the codes from my thesis, which simulate the sp
 
   <b>Original title</b> "Υπολογιστική προσομοίωση διάδοσης ασθενειών και σύνδεση με φαινόμενα διάχυσης"
   
-  The link for my thesis: <b>http://hdl.handle.net/10889/16598</b>
+  The link for my thesis: *http://hdl.handle.net/10889/16598*
+
+  ***Simulation videos*** <br>
+  0% immunity in the population : *https://www.youtube.com/watch?v=_skKHFiR_7I* <br>
+  20% immunity in the population : *https://www.youtube.com/watch?v=qwM20zlpvho* 
+  
+
+  
